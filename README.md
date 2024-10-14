@@ -1,5 +1,4 @@
-# CHML-Engine
-## Project Overview
+# CHML
 
 This project aims to enhance the screening process for Congenital Hypothyroidism (CH) using advanced machine learning techniques. By leveraging a large dataset from Newborn Screening Ontario (NSO), the project evaluates various classifiers and resampling methods to improve the Positive Predictive Value (PPV) while maintaining 100% sensitivity. The ultimate goal is to reduce false positives, thereby minimizing unnecessary retests and alleviating stress for families.
 
